@@ -169,7 +169,8 @@ python3 killComment.py --help
                             type of comments to remove c-like, py-like, shell-like, sql-like
 
 
-Examples :                             
+Examples :  
+                           
     python3 killComment.py -t sql-like db1.sql
 
     python3 killComment.py -t shell-like test.sh
