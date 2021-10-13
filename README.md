@@ -171,7 +171,10 @@ python3 killComment.py --help
 
 Examples :                             
     python3 killComment.py -t sql-like db1.sql
+
     python3 killComment.py -t shell-like test.sh
+
     python3 killComment.py -t c-like lex.yy.c
+
     python3 killComment.py -t py-like shc_old.py
 
