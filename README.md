@@ -7,7 +7,7 @@ I didn't find in which case we want to remove comments ;-)
 
 It creates a new file without comments and compresses the code (see below) with extension ".woc" .
 
-DISCLAIMER : this tool doesn't remove all comments inside an instruction like in C source example : #endif /* ! C99 */
+DISCLAIMER : this tool doesn't remove comments inside an instruction like in C source example : #endif /* ! C99 */
             
 This tool compresses and removes comments that are in one or several lines.
 Python example : 
